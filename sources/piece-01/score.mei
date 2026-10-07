@@ -66,7 +66,15 @@
                <p xml:id="p-4">Correct the layout (P0001)</p>
             </changeDesc>
          </change>
-         <change n="5" isodate="2026-10-07">
+         <change xml:id="change-5" n="5" isodate="2026-10-07">
+            <respStmt xml:id="respStmt-6">
+               <persName xml:id="persName-6">ohwjdev</persName>
+            </respStmt>
+            <changeDesc xml:id="changeDesc-5">
+               <p xml:id="p-5">Set up the score (P0002)</p>
+            </changeDesc>
+         </change>
+         <change n="6" isodate="2026-10-07">
             <respStmt>
                <persName>ohwjdev</persName>
             </respStmt>
@@ -177,10 +185,11 @@
                <scoreDef xml:id="scoreDef-1" keysig="1f" optimize="true">
                   <staffGrp xml:id="staffGrp-1">
                      <staffDef xml:id="staffDef-1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="3" meter.unit="4"/>
-                     <staffDef xml:id="staffDef-2" n="2" lines="5" clef.shape="G" clef.line="2" meter.count="3" meter.unit="4">
+                     <staffGrp xml:id="staffGrp-2" symbol="brace" bar.thru="true">
                         <label xml:id="label-1">Klavier</label>
-                     </staffDef>
-                     <staffDef xml:id="staffDef-3" n="3" lines="5" clef.shape="F" clef.line="4" meter.count="3" meter.unit="4"/>
+                        <staffDef xml:id="staffDef-2" n="2" lines="5" clef.shape="G" clef.line="2" meter.count="3" meter.unit="4"/>
+                        <staffDef xml:id="staffDef-3" n="3" lines="5" clef.shape="F" clef.line="4" meter.count="3" meter.unit="4"/>
+                     </staffGrp>
                   </staffGrp>
                </scoreDef>
                <section xml:id="section-1">
