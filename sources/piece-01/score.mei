@@ -66,12 +66,12 @@
                <p xml:id="p-4">Correct the layout (P0001)</p>
             </changeDesc>
          </change>
-         <change n="5" isodate="2026-10-07">
-            <respStmt>
-               <persName>ohwjdev</persName>
+         <change xml:id="change-5" n="5" isodate="2026-10-07">
+            <respStmt xml:id="respStmt-6">
+               <persName xml:id="persName-6">ohwjdev</persName>
             </respStmt>
-            <changeDesc>
-               <p>Set up the score (P0002)</p>
+            <changeDesc xml:id="changeDesc-5">
+               <p xml:id="p-5">Set up the score (P0002)</p>
             </changeDesc>
          </change>
 </revisionDesc>
