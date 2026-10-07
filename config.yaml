@@ -38,5 +38,6 @@ fragmentation:
 validation:
   required_validations: 1
   pass_threshold: 1
+  allow_self_validation: true
 locking:
   stale_after_minutes: 1440
