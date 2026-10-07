@@ -1,3 +1,4 @@
 comment_id,task_id,subtask_id,kind,page,measure_start,measure_end,author_id,timestamp,resolved,parent_id,body,fragment
 3554492c,P0001,S0001,fail,1,,,297915765,2026-10-07T11:56:38.815Z,,,Test: correct measure 5 box,
 266602f2,P0001,S0001,fail,1,,,297915765,2026-10-07T12:00:58.109Z,,,Test: send request from the editor,
+abc0ceaa,P0002,S0001,fail,1,,,297915765,2026-10-07T12:09:26.510Z,,,This is a change request. The brace for the piano is missing and the label is wrong. Use the Add group function to remedy.,
