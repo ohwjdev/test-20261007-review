@@ -50,12 +50,12 @@
                <p xml:id="p-2">Correct the layout (P0001)</p>
             </changeDesc>
          </change>
-         <change n="3" isodate="2026-10-07">
-            <respStmt>
-               <persName>ohwjdev</persName>
+         <change xml:id="change-3" n="3" isodate="2026-10-07">
+            <respStmt xml:id="respStmt-4">
+               <persName xml:id="persName-4">ohwjdev</persName>
             </respStmt>
-            <changeDesc>
-               <p>Corrected during review: Correct the layout (P0001)</p>
+            <changeDesc xml:id="changeDesc-3">
+               <p xml:id="p-3">Corrected during review: Correct the layout (P0001)</p>
             </changeDesc>
          </change>
 </revisionDesc>
